@@ -28,10 +28,6 @@ The repository is organized as follows:
 
 └── Uber_SQL_Analysis_Code.sql         # SQL script with all analytical queries
 
-└── Uber_Demand_Supply_Analysis_Dashboard.xlsx     # Excel workbook containing the interactive dashboard
-
-└── Uber Analysis Report.pdf       # Comprehensive project report in PDF format
-
 └── README.md                   # This README file
 
 
