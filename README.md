@@ -20,24 +20,24 @@ The repository is organized as follows:
 .
 ├── data/                       # Contains raw and cleaned CSV data files, along with query outputs
 
-│   ├── uber_data_raw.csv       # Original dataset
+│   ├── Uber Request Data.csv       # Original dataset
 
-│   ├── uber_data_cleaned.csv   # Data after Python cleaning
+│   ├── uber_requests_cleaned.csv   # Data after Python cleaning
 
-├── notebooks/                  # Jupyter Notebook for Python data cleaning and preprocessing
-│   └── uber_data_cleaning.ipynb
+├── notebooks/                  # Google Colab Notebook for Python data cleaning and preprocessing
+│   └── Uber_Supply_Demand_Gap_Analysis.ipynb
 
 ├── sql/                        # SQL script with all analytical queries
 
-│   └── uber_SQL_Analysis_Code.sql
+│   └── Uber_SQL_Analysis_Code.sql
 
 ├── excel/                      # Excel workbook containing the interactive dashboard
 
-│   └── Uber_Demand_Supply_Dashboard.xlsx
+│   └── Uber_Demand_Supply_Analysis_Dashboard.xlsx
 
 └── reports/                    # Comprehensive project report in PDF format
 
-│   └── Uber_Demand_Supply_Analysis_Report.pdf
+│   └── Uber Analysis Report.pdf
 
 └── README.md                   # This README file
 
