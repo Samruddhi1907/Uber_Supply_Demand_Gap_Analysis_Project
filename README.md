@@ -25,6 +25,7 @@ The repository is organized as follows:
 │   ├── uber_requests_cleaned.csv   # Data after Python cleaning
 
 ├── notebooks/                  # Google Colab Notebook for Python data cleaning and preprocessing
+
 │   └── Uber_Supply_Demand_Gap_Analysis.ipynb
 
 ├── sql/                        # SQL script with all analytical queries
